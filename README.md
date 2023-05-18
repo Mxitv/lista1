@@ -1847,7 +1847,7 @@ http://144.217.70.79/VODS-M/1080P/Dreamland%202019.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/ w500/wQmmJi5ypfHH2boXrQBmsep7qb2.jpg" group-title="PELICULAS" type="movie", Dead Man Walking (1995) 
 http://144.217.70.79/VODS-M/1080P/Dead%20Man%20Walking%201995.mkv
 
-# EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9Azi1GBNj3gPPwmQWAMcATg7JOl.jpg" group-title="PELICULAS" type="movie", Elektra (2005) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9Azi1GBNj3gPPwmQWAMcATg7JOl.jpg" group-title="PELICULAS" type="movie", Elektra (2005) 
 http://144.217.70.79/VODS-M/1080P/Elektra%202005.mkv 
 
 #EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w500/9z8QUU352esv2CKD9QRqTfDLW6n.jpg" group-title="PELICULAS" type="movie" , El extraño y el pistolero (1974) 
